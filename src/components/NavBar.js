@@ -4,7 +4,7 @@ export default class NavBar extends Component {
   render() {
     return (
       <div>
-        <h1>Nav Bar</h1>
+        <h1>Play What?</h1>
       </div>
     )
   }
