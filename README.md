@@ -12,4 +12,5 @@
 ## Setting up pages :
 
     * add layout structure to App.js
-    * add h1s to each page connected to App.js with the name of the file to make sure the page is rendering correctly in the right order
+    * add h1s to each page connected to App.js with the name of the
+    <br>file to make sure the page is rendering correctly in the right order
