@@ -10,6 +10,13 @@ export default class NavBar extends Component {
       songTitle: "",
       SongNotes: ""
     };
+
+this.handleUserChange = this.handleUserChange.bind(this);
+this.handleArtistChange = this.handleArtistChange.bind(this);
+this.handleTitleChange = this.handleTitleChange.bind(this);
+this.handleNotesChange = this.handleNotesChange.bind(this);
+this.addToList = this.addToList.bind(this);
+
     }
 
   render() {
