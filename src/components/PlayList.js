@@ -35,7 +35,7 @@ fetch('https://tiny-lasagna-server.herokuapp.com/collections/playlisting').then(
 render() {
    return (
      <div>
-       <button onClick={this.fetchData}>Update List</button>
+       <button onClick={this.fetchData} className="updateliststyle">Update List</button>
        <PlayListItem arrayOfSongs = {this.state.songs}/>
      </div>
    );

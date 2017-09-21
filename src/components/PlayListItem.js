@@ -4,7 +4,7 @@ export default class PlayListItem extends Component {
   render() {
     let songs = this.props.arrayOfSongs.map((song, index) =>{
         return (
-          <div key={index}>
+          <div key={index} className="liststyle">
                     <p>User: {song.userName}</p>
                     <p>Artist/Band: {song.songArtist} </p>
                     <p>Title: {song.songTitle} </p>

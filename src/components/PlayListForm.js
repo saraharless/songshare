@@ -92,7 +92,7 @@ render() {
 
     <textarea rows="4" cols="50" name="notes" type="text" placeholder="Notes"  onChange={this.handleNotesChange} value={this.state.songNotes}></textarea>
 
-    <button type="submit">Submit</button>
+    <button type="submit" className="stylesubmit">Submit</button>
     </form>
     </div>
   )
