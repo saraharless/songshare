@@ -15,5 +15,5 @@
     * add h1s to each page connected to App.js with the name of the
       file to make sure the page is rendering correctly in the right order
 
-#View live surge page here:
-[Songshare](http://psychedelic-food.surge.sh/)
+# View live surge page here :
+    * [Songshare](http://psychedelic-food.surge.sh/)
