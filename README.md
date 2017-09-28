@@ -16,4 +16,4 @@
       file to make sure the page is rendering correctly in the right order
 
 # View live surge page here :
-    * [Songshare](http://psychedelic-food.surge.sh/)
+    [Songshare](http://psychedelic-food.surge.sh/)
